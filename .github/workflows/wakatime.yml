@@ -1,12 +1,14 @@
-name: wakatime
+name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-  - cron: "0 0 * * *"
-    
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
