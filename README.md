@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+Go           33 hrs 15 mins  ██████████████████████░░░   89.17 % 
+YAML         2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Markdown     1 hr 7 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Makefile     28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+```
 <!--END_SECTION:waka-->
