@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           24 hrs 35 mins  ████████████████████░░░░░   81.87 % 
-TypeScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JSON         58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Makefile     52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-DTD          31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Go           18 hrs 27 mins  ███████████████████░░░░░░   78.93 % 
+TypeScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+JSON         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Makefile     50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+DTD          31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 <!--END_SECTION:waka-->
