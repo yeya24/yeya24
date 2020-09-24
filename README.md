@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go     11 hrs 35 mins  █████████▓░░░░░░░░░░░░░░░   38.31 % 
-Java   4 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-TeX    4 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Bash   3 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-C      3 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Go         8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.62 % 
+Java       4 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.68 % 
+TeX        4 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Bash       3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Markdown   2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 <!--END_SECTION:waka-->
