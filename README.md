@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++        18 hrs 45 mins  █████████▓░░░░░░░░░░░░░░░   38.60 % 
-Java       14 hrs 8 mins   ███████▒░░░░░░░░░░░░░░░░░   29.08 % 
-Go         11 hrs 3 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 % 
-Makefile   2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Markdown   52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+C++               19 hrs 48 mins  █████████▓░░░░░░░░░░░░░░░   39.08 % 
+Java              15 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 % 
+Go                10 hrs 23 mins  █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Makefile          2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Protocol Buffer   54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 <!--END_SECTION:waka-->
