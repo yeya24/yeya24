@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java       21 hrs 47 mins  ████████████▒░░░░░░░░░░░░   49.03 % 
-Go         16 hrs 2 mins   █████████░░░░░░░░░░░░░░░░   36.10 % 
-Other      2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Markdown   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Makefile   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Java       22 hrs 55 mins  ████████████░░░░░░░░░░░░░   47.93 % 
+Go         15 hrs 41 mins  ████████▒░░░░░░░░░░░░░░░░   32.82 % 
+Other      3 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+YAML       1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Makefile   1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 <!--END_SECTION:waka-->
