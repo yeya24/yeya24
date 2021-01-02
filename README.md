@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go                13 hrs 2 mins   █████████████████████▒░░░   85.20 % 
-Markdown          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Rust              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Protocol Buffer   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Java              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Go                11 hrs 30 mins  █████████████████████▒░░░   85.53 % 
+Rust              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Protocol Buffer   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+YAML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
