@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           12 hrs 25 mins  ███████████████████████░░   91.40 % 
-Bash         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-TypeScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Go           4 hrs 23 mins   ████████████████████████░   96.14 % 
+TypeScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 <!--END_SECTION:waka-->
