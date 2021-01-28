@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go         22 mins         █████████████████████████   99.96 % 
+Go           59 mins         ████████████████████████░   96.23 % 
+Makefile     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
