@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Scala      8 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.32 % 
-Go         8 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-Java       5 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Other      1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Makefile   1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Scala    8 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   35.12 % 
+Go       8 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.58 % 
+Other    1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Python   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Java     1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 <!--END_SECTION:waka-->
