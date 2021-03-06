@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python            18 hrs 33 mins  ████████████▓░░░░░░░░░░░░   51.16 % 
-Go                9 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 % 
-Other             4 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Text              1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Protocol Buffer   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Python   17 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.35 % 
+Go       10 hrs 21 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.15 % 
+Other    3 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Text     1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Scala    1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 <!--END_SECTION:waka-->
