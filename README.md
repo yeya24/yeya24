@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           29 hrs 23 mins  ███████████████████▒░░░░░   77.02 % 
-YAML         4 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Rust         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-TypeScript   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Python       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Go         30 hrs 3 mins   ████████████████▓░░░░░░░░   66.92 % 
+YAML       5 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Python     3 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Rust       1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 <!--END_SECTION:waka-->
