@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           16 hrs 31 mins  ████████████████████▒░░░░   80.77 % 
-Other        1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Java         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Properties   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Git Config   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Go           17 hrs 12 mins  █████████████████████▒░░░   85.88 % 
+Other        1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Properties   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Java         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
