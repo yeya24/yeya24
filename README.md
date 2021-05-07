@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           17 hrs 12 mins  █████████████████████▒░░░   85.88 % 
-Other        1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Properties   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Java         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Python       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Go         12 hrs 45 mins  ████████████████████▓░░░░   82.26 % 
+Other      1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Python     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Java       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 <!--END_SECTION:waka-->
