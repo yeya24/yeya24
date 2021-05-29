@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           16 hrs 32 mins  ███████████████████████▓░   94.96 % 
-Markdown     37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Go           14 hrs 54 mins  ███████████████████████▓░   95.22 % 
+Markdown     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
