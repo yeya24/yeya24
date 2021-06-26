@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           6 hrs 16 mins   ██████████████████████▓░░   90.65 % 
-YAML         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Go           6 hrs 37 mins   ███████████████████████░░   91.87 % 
+YAML         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 <!--END_SECTION:waka-->
