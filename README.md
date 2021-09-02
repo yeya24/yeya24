@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        5 hrs 30 mins   ██████████████▒░░░░░░░░░░   56.91 % 
-YAML         3 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   41.11 % 
-Rust         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other        5 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.40 % 
+YAML         3 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
+Rust         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
