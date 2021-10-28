@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other   5 hrs 22 mins   ██████████████████░░░░░░░   72.56 % 
-YAML    1 hr 42 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
-JSON    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Go      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other   5 hrs 8 mins    ███████████████▒░░░░░░░░░   61.85 % 
+YAML    2 hrs 50 mins   ████████▓░░░░░░░░░░░░░░░░   34.24 % 
+JSON    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Go      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
