@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML    3 hrs 1 min     █████████████░░░░░░░░░░░░   51.39 % 
-Other   2 hrs 51 mins   ████████████░░░░░░░░░░░░░   48.61 % 
+YAML    2 hrs 41 mins   █████████████░░░░░░░░░░░░   51.60 % 
+Other   2 hrs 31 mins   ████████████░░░░░░░░░░░░░   48.40 % 
 ```
 <!--END_SECTION:waka-->
