@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML       2 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.77 % 
-Other      2 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.61 % 
-Bash       1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Markdown   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Other      3 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.76 % 
+YAML       2 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.73 % 
+Bash       1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Markdown   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
