@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML       2 hrs 51 mins   ████████████████░░░░░░░░░   63.84 % 
-Other      1 hr 24 mins    ███████▓░░░░░░░░░░░░░░░░░   31.32 % 
-Bash       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Rust       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Total: 2 hrs 52 mins
+
+YAML    2 hrs 41 mins   ███████████████▒░░░░░░░░░   61.83 % 
+Other   1 hr 29 mins    ████████▓░░░░░░░░░░░░░░░░   34.15 % 
+Bash    10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 <!--END_SECTION:waka-->
