@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Groovy     5 hrs 46 mins   ████████████▓░░░░░░░░░░░░   51.26 %
-YAML       4 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   36.84 %
-Other      1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Groovy     5 hrs 46 mins   ██████████████▒░░░░░░░░░░   57.20 %
+YAML       3 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+Other      1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
 ```
 
 <!--END_SECTION:waka-->
