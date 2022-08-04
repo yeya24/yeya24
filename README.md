@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       9 mins          ████████████████████▓░░░░   83.19 %
-JSON       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Makefile   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Rust             2 hrs 47 mins   █████████████░░░░░░░░░░░░   52.47 %
+Other            1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.40 %
 ```
 
 <!--END_SECTION:waka-->
