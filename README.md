@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin           26 mins         ███████████████░░░░░░░░░░   59.99 %
+Text             8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+Go               5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Java             2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+DTD              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
