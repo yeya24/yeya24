@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                     15 hrs 41 mins  ███████████░░░░░░░░░░░░░░   44.20 %
-Go                         14 hrs 7 mins   ██████████░░░░░░░░░░░░░░░   39.83 %
-Brazil Dependency Config   2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-textmate                   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Markdown                   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Makefile                   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Kotlin                     16 hrs 21 mins  ██████████▒░░░░░░░░░░░░░░   41.16 %
+Go                         15 hrs 17 mins  █████████▓░░░░░░░░░░░░░░░   38.49 %
+Brazil Dependency Config   3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+textmate                   53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Markdown                   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+YAML                       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
