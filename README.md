@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                2 hrs 14 mins   ████████████████████████▒   97.19 %
-Protocol Buffer   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Kotlin            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go       34 mins         █████████████████████████   99.72 %
+Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
