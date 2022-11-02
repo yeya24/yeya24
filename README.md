@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                3 hrs 25 mins   █████████████████████▒░░░   85.21 %
-Markdown          30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Protocol Buffer   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-YAML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-IDEA_MODULE       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go                   11 hrs 1 min    █████████████████████▒░░░   84.96 %
+Markdown             56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+YAML                 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+textmate             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Python               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Makefile             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
