@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                         19 hrs 57 mins  ██████████████████████░░░   88.40 %
-Markdown                   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-YAML                       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Protocol Buffer            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-textmate                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-HTML                       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Go                         27 hrs 32 mins  ██████████████████████▓░░   90.64 %
+Markdown                   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+YAML                       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Protocol Buffer            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+textmate                   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+HTML                       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
