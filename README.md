@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                         16 hrs 33 mins  ██████████████▒░░░░░░░░░░   57.74 %
-Kotlin                     5 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
-JavaScript                 3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Markdown                   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Java                       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JSON                       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Go                         16 hrs 33 mins  ████████████████▒░░░░░░░░   64.67 %
+JavaScript                 3 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Kotlin                     2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Markdown                   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+JSON                       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Java                       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
