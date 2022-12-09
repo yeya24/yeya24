@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                   5 hrs 36 mins   █████████████████████▓░░░   86.30 %
-Shell Script         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Kotlin               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Makefile             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-YAML                 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-textmate             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Go                   3 hrs 26 mins   ███████████████████████░░   92.31 %
+Shell Script         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+go.mod               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Markdown             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+YAML                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Makefile             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
