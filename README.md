@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                         13 hrs 54 mins  █████████████████████▒░░░   85.15 %
-Brazil Dependency Config   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Markdown                   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-YAML                       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-textmate                   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Shell Script               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Go                         17 hrs 46 mins  ██████████████████████▓░░   90.68 %
+Brazil Dependency Config   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+YAML                       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+textmate                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+go.mod                     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Makefile                   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
