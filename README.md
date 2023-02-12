@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                         10 hrs 24 mins  ███████████████████████▓░   94.54 %
-Markdown                   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Brazil Dependency Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-go.mod                     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-GitIgnore file             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Protocol Buffer            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go                         12 hrs 42 mins  ███████████████████████▓░   94.92 %
+Markdown                   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Brazil Dependency Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+YAML                       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+go.mod                     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+GitIgnore file             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
