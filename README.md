@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                         11 hrs 55 mins  ██████████████████████░░░   87.76 %
-Python                     53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Markdown                   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-textmate                   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-YAML                       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Brazil Dependency Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Go                         15 hrs 52 mins  █████████████████████▒░░░   85.15 %
+Python                     53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Brazil Dependency Config   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Markdown                   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+textmate                   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML                       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
