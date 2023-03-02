@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                         16 hrs 54 mins  █████████████████████▓░░░   87.30 %
-YAML                       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Markdown                   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Brazil Dependency Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-go.mod                     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-JSON                       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Go                         17 hrs 57 mins  ██████████████████████░░░   88.36 %
+YAML                       1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Markdown                   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+JSON                       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Makefile                   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Vue.js                     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
