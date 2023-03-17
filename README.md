@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                         18 hrs 52 mins  ███████████████████████▓░   95.09 %
-YAML                       49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Markdown                   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Makefile                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-AUTO_DETECTED              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go                         18 hrs 12 mins  ████████████████████████▒   97.73 %
+YAML                       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown                   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Protocol Buffer            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Brazil Dependency Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+PATCH                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
