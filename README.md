@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                7 hrs 47 mins   ███████████████████░░░░░░   75.91 %
-Kotlin            1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Protocol Buffer   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-YAML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Text              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Go                14 hrs 13 mins  ██████████████████████▓░░   90.95 %
+YAML              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Protocol Buffer   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Text              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Shell Script      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
