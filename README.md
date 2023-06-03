@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-Go                15 hrs 30 mins  ███████████████████████▒░   93.51 %
-YAML              35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Markdown          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-go.mod            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Shell Script      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```txt
+Go                12 hrs 19 mins  ██████████████████████▓░░   90.30 %
+YAML              29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Markdown          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+go.mod            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Docker            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
