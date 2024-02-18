@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         2 hrs 47 mins   █████████████████████████   99.87 %
-Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Protocol Buffer            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                         2 hrs 40 mins   ████████████████████████░   96.60 %
+protobuf                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Makefile                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Protocol Buffer            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
