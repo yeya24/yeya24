@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                20 hrs          ███████████████████████▓░   94.73 %
-YAML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Kotlin            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-JSON              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Go                17 hrs 5 mins   ███████████████████████▓░   94.68 %
+YAML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Kotlin            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Protocol Buffer   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+protobuf          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
