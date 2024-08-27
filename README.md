@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               1 hr 47 mins    █████████████████████████   99.79 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Go               1 hr 40 mins    █████████████████████████   99.80 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
