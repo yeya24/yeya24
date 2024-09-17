@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         20 hrs 17 mins  ███████████████████████▒░   93.84 %
-Protocol Buffer            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Brazil Dependency Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-go.mod                     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-protobuf                   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Go                         18 hrs 49 mins  ████████████████████████░   96.28 %
+Brazil Dependency Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+go.mod                     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Text                       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+textmate                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
