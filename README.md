@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go       4 hrs 2 mins    █████████████████████████   100.00 %
+Go       2 hrs 42 mins   █████████████████████████   100.00 %
 go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
