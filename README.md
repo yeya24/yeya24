@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                26 hrs 8 mins   █████████████████████████   99.89 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Go                20 hrs 6 mins   █████████████████████████   99.85 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
