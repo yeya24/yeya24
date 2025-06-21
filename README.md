@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   4 hrs 47 mins   ████████████████████████░   95.39 %
-YAML                 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Markdown             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Go                   4 hrs 21 mins   ████████████████████████▓   98.58 %
+Markdown             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Text                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+protobuf             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
