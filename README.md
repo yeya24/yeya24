@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go   1 hr 6 mins     █████████████████████████   100.00 %
+Go   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
