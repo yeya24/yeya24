@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go   15 mins         █████████████████████████   100.00 %
+Go         5 hrs 23 mins   █████████████████████████   100.00 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
