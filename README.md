@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         5 hrs 56 mins   ███████████████▒░░░░░░░░░   61.59 %
+Go         5 hrs 56 mins   ███████████████▒░░░░░░░░░   61.58 %
 Rust       3 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.16 %
 Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
