@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         2 hrs 37 mins   ███████████████████▒░░░░░   76.73 %
-Rust       45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Go         3 hrs 22 mins   ████████████████████▒░░░░   80.67 %
+Rust       45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
