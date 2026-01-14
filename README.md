@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 53 mins    ██████████████████████▓░░   91.24 %
-Markdown     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go             2 hrs 8 mins    █████████████████████████   99.70 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
