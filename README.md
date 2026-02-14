@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                1 hr 32 mins    ███████████████████████░░   92.00 %
-go.mod            7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Go       2 hrs 23 mins   ███████████████████████▓░   94.90 %
+go.mod   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
