@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                58 mins               ███████████████████████▓░   94.15 %
+Go                58 mins               ███████████████████████▓░   94.14 %
 protobuf          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 JSON              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 Text              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
